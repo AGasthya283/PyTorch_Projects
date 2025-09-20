@@ -31,5 +31,7 @@ This repo contains code, experiments, and notes from the following projects:
 
 ---
 
-//## 📂 Repository Structure  
+<!--
+## 📂 Repository Structure  
+-->
 
